@@ -24,15 +24,15 @@ DynamicMPA é uma aplicação de várias páginas (MPA) desenvolvida com HTML e 
 2. Navegue até o diretório do projeto:
 
 cd DynamicMPA
-Instale o serve (se ainda não estiver instalado):
+3. Instale o serve (se ainda não estiver instalado):
 
 npm install -g serve
 
-Inicie o servidor local:
+4. Inicie o servidor local:
 
 serve -s .
 
-Abra o navegador e acesse http://localhost:5000 (ou a porta exibida no terminal).
+5. Abra o navegador e acesse http://localhost:5000 (ou a porta exibida no terminal).
 
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
